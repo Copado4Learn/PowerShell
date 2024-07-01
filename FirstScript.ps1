@@ -5,3 +5,5 @@
 Get-ChildItem | ForEach-Object{
     $_.FullName
 }
+
+# This is to tst tjhe spell chcker
