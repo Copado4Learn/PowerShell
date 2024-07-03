@@ -16,3 +16,7 @@ You can discover an objects properties and methods using Get-Member#>
 Get-ChildItem | Get-Member 
 
 (Get-ChildItem)[0].FullName
+
+$var = New-Object System.DateTime
+
+$var
